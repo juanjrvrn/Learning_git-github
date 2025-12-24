@@ -1,1 +1,0 @@
-console.log("esto no esta en el tutorial")
