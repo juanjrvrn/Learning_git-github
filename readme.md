@@ -1,4 +1,5 @@
 ## Que burro inutil  
 
 - Pelu estuvo aqui
-- Adding from features
+- Cambiado por `dev-juan`
+- Adding from `features`
